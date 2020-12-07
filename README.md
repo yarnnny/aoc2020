@@ -5,3 +5,4 @@ My first Advent of Code (https://adventofcode.com/2020/) in JavaScript and my fi
 ### Completed days
 
 - Day 01: The Report Repair
+- Day 02: Password Philosophy
